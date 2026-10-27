@@ -65,7 +65,7 @@ O desenvolvimento foi organizado com a metodologia Scrum, utilizando Sprints par
 
 A apresentação reúne o problema abordado, os objetivos do sistema, a organização do desenvolvimento, as funcionalidades previstas e os principais desafios encontrados durante o projeto.
 
-[Visualizar a apresentação do Hemotrack (PDF)](hemotrack.pdf)
+[Visualizar a apresentação do Hemotrack (PDF)](Hemotrack.pdf)
 
 ## Demonstração
 
